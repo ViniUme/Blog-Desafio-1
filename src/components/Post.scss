@@ -7,6 +7,8 @@ $gray-dark: #1A202C;
     margin: 2em;
     width: 60%;
     transition: width 350ms ease-out;
+    animation-name: anime;
+    animation-duration: 1s;
 }
 .date{
     font-family: 'Lexend Deca', sans-serif;
@@ -31,5 +33,15 @@ $gray-dark: #1A202C;
 @media (max-width: 550px){
     .post{
         width: 80%;
+    }
+}
+@keyframes anime{
+    from {
+        margin: 0;
+        opacity: 0;
+    }
+    to {
+        margin: 2em;
+        opacity: 100%;
     }
 }

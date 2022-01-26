@@ -31,6 +31,8 @@ $blue-light: #3EA1DB;
     justify-content: space-between;
     align-items: center;
     transition: width 350ms ease-out;
+    animation-name: anime_opacity;
+    animation-duration: 1s;
 }
 .label-header{
     padding: 5px 5px;
@@ -43,6 +45,8 @@ $blue-light: #3EA1DB;
     width: 60%;
     height: 40%;
     transition: width 350ms ease-out;
+    animation-name: anime_opacity;
+    animation-duration: 1s;
 }
 .search-input{
     outline: none;
@@ -76,5 +80,13 @@ $blue-light: #3EA1DB;
     .search-bar{
         width: 80%;
         height: 50%;
+    }
+}
+@keyframes anime_opacity{
+    from {
+        opacity: 1%;
+    }
+    to {
+        opacity: 100%;
     }
 }

@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+
+$gray: #717171;
+$gray-dark: #1A202C;
+
+.post{
+    margin: 2em;
+    width: 60%;
+    transition: width 350ms ease-out;
+}
+.date{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 0.7rem;
+    color: $gray;
+}
+.title{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1.5rem;
+    color: $gray-dark;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.text{
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 1rem;
+    color: $gray;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+@media (max-width: 550px){
+    .post{
+        width: 80%;
+    }
+}

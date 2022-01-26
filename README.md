@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/66230638/151236625-a0711ccd-2105-4148-bf2a-473794d5611d.PNG">
 
 ### About
-This project is a challange of <a href="https://discord.com/invite/QevDJqCzaY">Codelândia's</a> discord server. There are many challenges of Front-End. The challenge is to make a blog like a layout avaliable on server, leaving responsive and creating posts and animations.
+This project is a challange of <a href="https://discord.com/invite/QevDJqCzaY">Codelândia's</a> discord server. There are many challenges of Front-End. The challenge is to make a blog like a layout avaliable on server, leaving responsive, creating posts and animations.
 
 <br>
 

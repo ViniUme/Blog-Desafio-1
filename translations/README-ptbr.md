@@ -26,6 +26,10 @@ Clone esse repositório, tenha os modulos do React dentro desse projeto
 
     git clone https://github.com/ViniUme/Blog-Desafio-1.git
     
+Com o terminal aberto na pasta do projeto, instale as dependências e tenha o Node.js instalado:
+
+    npm install
+    
 Então, digite este comando para executar:
 
     npm run

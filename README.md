@@ -20,10 +20,13 @@ This project is a challange of <a href="https://discord.com/invite/QevDJqCzaY">C
 <br>
 
 ### How to Run
-Have Node.js installed in your computer.
-Clone this repository, have the modules files of React in this project:
+Clone this repository:
 
     git clone https://github.com/ViniUme/Blog-Desafio-1.git
+    
+With terminal opened in project folder, install the dependencies, have Node.js installed:
+
+    npm install
     
 Then, type this command to run:
 

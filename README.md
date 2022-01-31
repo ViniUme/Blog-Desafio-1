@@ -24,7 +24,7 @@ Clone this repository:
 
     git clone https://github.com/ViniUme/Blog-Desafio-1.git
     
-With terminal opened in project folder, install the dependencies, have Node.js installed:
+Have Node.js installed, with terminal opened in project folder, install the dependencies :
 
     npm install
     
